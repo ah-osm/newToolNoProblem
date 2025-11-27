@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment Variables (CRITICAL)
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Project Generated Content (User Data)
+lessons/
+progress_*.json
+session_*.json
+roadmap_*.md
+*.log
+
+# System
+.DS_Store
+Thumbs.db
