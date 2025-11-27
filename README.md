@@ -55,7 +55,7 @@ Pure content generators that focus on their specific domains:
 7.  **Notifier Agent** 📢
     - Sends motivational messages and tips
 
-### 🔄 Workflow: The "Option 1" Pattern
+### 🔄 Workflow: 
 
 To ensure stability and compatibility with Google's ADK (Agent Development Kit), we use a **Centralized File Management** pattern:
 
